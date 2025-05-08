@@ -8,7 +8,7 @@ public class GitTriggerJenkinsBuild {
 		
 		System.out.println("Hello");
 		
-		irgkht;
+		irgkhtuuyuc;
 
 	}
 
